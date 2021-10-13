@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home"
+        android:id="@+id/actionHome"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="@string/wishlist"
+        android:id="@+id/actionMatches"
+        android:icon="@drawable/ic_wishlist"/>
+    <item android:title="@string/bottom_scan"
+        android:id="@+id/actionnotification"
+        android:icon="@drawable/ic_baseline_settings_overscan_24"/>
+    <item android:id="@+id/actionSearch"
+        android:title="@string/collection"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"/>
+    <item android:title="@string/profile"
+        android:id="@+id/actionInbox"
+        android:icon="@drawable/ic_baseline_account_circle_24"/>
+</menu>

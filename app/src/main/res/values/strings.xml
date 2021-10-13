@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="scan">Scan</string>
+    <string name="sell">Sell</string>
+    <string name="text">Lorem ipsum dolor sit \n amet,consectetur</string>
+    <string name="home">Home</string>
+    <string name="wishlist">Whishlist</string>
+    <string name="bottom_scan">Scan</string>
+    <string name="collection">Collection</string>
+    <string name="profile">Profile</string>
+    <string name="availe_to_buy">Available to buy</string>
+    <string name="see_all">See all</string>
+</resources>
